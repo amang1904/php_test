@@ -1,5 +1,0 @@
----
-deployment:
-    tasks:
-        - export DEPLOYPATH=/home/ajs2pem53pg4/public_html/admin/
-        - /bin/cp * $DEPLOYPATH
